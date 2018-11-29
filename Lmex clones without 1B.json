@@ -1,0 +1,13 @@
+{
+	"file": "https://raw.githubusercontent.com/37chris/Lmex-clones-FINAL/master/L%20mex%20clones%20without%201B%20upset.csv",
+	"name": "Lmex Clones without 1B",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Protein" }
+		],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 8 }
+		]
+	}
