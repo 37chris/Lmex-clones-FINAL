@@ -1,0 +1,412 @@
+Protein; clone 1A; clone 1C; clone 2A; clone 2B; clone 2C; clone 2D; clone 3A; clone 3B
+14-3-3 protein-like protein  ;1 ;0 ;0 ;1 ;0 ;0 ;1 ;1
+2-3-bisphosphoglycerate-independent phosphoglycerate mutase  ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+3'-nucleotidase/nuclease  ;0 ;1 ;1 ;1 ;0 ;1 ;1 ;1
+40S ribosomal protein S24  ;0 ;0 ;0 ;0 ;1 ;1 ;0 ;0
+40S ribosomal protein S3a  ;0 ;0 ;0 ;1 ;0 ;1 ;0 ;0
+40S ribosomal protein S6  ;0 ;0 ;1 ;1 ;1 ;1 ;1 ;0
+40S ribosomal protein S8  ;1 ;0 ;0 ;1 ;1 ;1 ;1 ;0
+6-phosphogluconolactonase  ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+60S ribosomal protein L11  ;0 ;0 ;0 ;0 ;0 ;0 ;1 ;0
+Acetyl-coenzyme A synthetase  ;1 ;1 ;0 ;1 ;0 ;0 ;0 ;1
+Aconitate hydratase  ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Actin ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Adenosylhomocysteinase  ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+ADP-ribosylation factor-like protein  ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Alanine--tRNA ligase  ;1 ;0 ;0 ;1 ;0 ;1 ;1 ;1
+Amastin-like protein  ;1 ;1 ;1 ;1 ;1 ;1 ;0 ;1
+Aminopeptidase  ;1 ;1 ;0 ;1 ;1 ;0 ;0 ;1
+ATP synthase subunit beta  ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+ATP-dependent 6-phosphofructokinase  ;1 ;0 ;0 ;1 ;1 ;0 ;1 ;1
+Autophagy-related protein  ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Autophagy-related protein  ;0 ;1 ;0 ;1 ;0 ;0 ;0 ;1
+Autophagy-related protein  ;1 ;1 ;0 ;1 ;0 ;1 ;1 ;1
+Biotin/lipoate protein ligase-like protein  ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Clathrin heavy chain  ;1 ;1 ;1 ;1 ;0 ;1 ;1 ;1
+Cluster of 6-phosphogluconate dehydrogenase decarboxylating  ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Calpain-like cysteine peptidase  ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Glyceraldehyde-3-phosphate dehydrogenase  ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Cluster of GP63 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Histone H2A  ;1 ;0 ;1 ;1 ;1 ;1 ;0 ;0
+Cluster of Histone H2B  ;1 ;0 ;1 ;0 ;1 ;1 ;1 ;0
+Cluster of Histone H4  ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Kinesin-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_17_0800 PE=3 SV=1 (E9AR52_LEIMU) ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Cluster of Kinesin-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_0560 PE=3 SV=1 (E9AW71_LEIMU) ;1 ;0 ;0 ;0 ;1 ;0 ;0 ;1
+Cluster of Plasma membrane ATPase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_18_1520 PE=3 SV=1 (E9ART6_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Putative calpain-like cysteine peptidase (Fragment) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_0490 PE=3 SV=1 (E9AYV1_LEIMU) ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Cluster of Putative heat-shock protein hsp70 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_28_2770 PE=3 SV=1 (E9B099_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Putative NADH-dependent fumarate reductase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_1180 PE=4 SV=1 (E9B5Z7_LEIMU) ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Cluster of Putative proteophosphoglycan ppg3 (Fragment) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_0500 PE=4 SV=1 (E9B5T5_LEIMU) ;0 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Cluster of Pyruvate kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_0030 PE=3 SV=1 (E9B5P1_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Receptor-type adenylate cyclase a OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_17_0200 PE=4 SV=1 (E9ARD7_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Sodium stibogluconate resistance protein putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_0930 PE=4 SV=1 (E9B1P3_LEIMU) ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Cluster of Surface antigen-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0190 PE=4 SV=1 (E9AK01_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Tryparedoxin peroxidase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_15_1160 PE=4 SV=1 (E9AQA6_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Tubulin beta chain OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_1171 PE=3 SV=1 (E9AMJ9_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_07_0840 PE=4 SV=1 (E9ALA1_LEIMU) ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Cluster of Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_1500 PE=4 SV=1 (E9ALS3_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_17_0870 PE=4 SV=1 (E9AR60_LEIMU) ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Cluster of WGS CADB00000000 data_ contig 72 (Fragment) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LmxM_32_3070a_1 PE=4 SV=1 (E8NHN7_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cluster of WGS CADB00000000 data_ contig 84 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LmxM_10_0380_1 PE=4 SV=1 (E8NHQ5_LEIMU) ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Cofilin-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_0510 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;0 ;1
+Conserved TPR domain protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_2740 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Cytochrome c oxidase subunit IV OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_12_0670 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;1 ;0
+D-3-phosphoglycerate dehydrogenase-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_03_0030 PE=3 SV=1 ;1 ;1 ;0 ;1 ;0 ;1 ;0 ;1
+D-lactate dehydrogenase-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_2020 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;1 ;0 ;0
+Dihydroorotate dehydrogenase (fumarate) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_0530 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Dipeptidyl peptidase 3 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0960 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Dnaj chaperone-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_0900 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Elongation factor 1-alpha OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_17_0080 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Elongation factor 2 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_0180 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Elongation factor-1 gamma OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_09_0970 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;1 ;0 ;1
+Enolase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_14_1160 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Eukaryotic translation initiation factor 5A OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_0720 PE=1 SV=1 ;0 ;1 ;0 ;1 ;0 ;0 ;0 ;1
+Fructose-bisphosphate aldolase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_1260 PE=3 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+GDP-mannose pyrophosphorylase OS=Leishmania mexicana OX=5665 GN=exgmp PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Glucose transporter_ lmgt2 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_6290 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Glycosomal phosphoenolpyruvate carboxykinase_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_1805 PE=3 SV=1 ;1 ;0 ;0 ;1 ;1 ;1 ;1 ;1
+GTP-binding nuclear protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_1420 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Heat shock protein 70-related protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_1240 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Heat shock protein 83-1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_0312 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Histone H3 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_10_0870 PE=3 SV=1 ;0 ;1 ;0 ;1 ;1 ;1 ;1 ;0
+Hydrophilic acylated surface protein a OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_1040 PE=4 SV=1 ;0 ;1 ;0 ;0 ;0 ;0 ;0 ;0
+I/6 autoantigen-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_22_1460 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Kinesin-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0760 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Kinesin-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_19_0260 PE=3 SV=1 ;1 ;0 ;1 ;1 ;1 ;1 ;1 ;1
+Malic enzyme OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_24_0761 PE=3 SV=1 ;1 ;1 ;0 ;1 ;0 ;1 ;0 ;1
+Miltefosine transporter beta subunit OS=Leishmania amazonensis OX=5659 PE=3 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;1 ;1
+Mitochondrial processing peptidase alpha subunit_putative (Metallo-peptidase_ clan me_ family m16) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_0870 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;1 ;0
+Mitochondrial processing peptidase alpha subunit_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_21_0340 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;1 ;0
+Mitochondrial processing peptidase_ beta subunit_putative_metallo-peptidase_ Clan ME_ Family M16 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_1380 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Myosin heavy chain kinase c-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_0680 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+NADH:flavin oxidoreductase/NADH oxidase_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_12_1130 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Nucleobase transporter OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1210 PE=4 SV=1 ;0 ;0 ;1 ;0 ;0 ;0 ;0 ;0
+Nucleoside diphosphate kinase OS=Leishmania amazonensis OX=5659 PE=1 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Obg-like ATPase 1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_2330 PE=3 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;0 ;1
+Oligopeptidase B OS=Leishmania amazonensis OX=5659 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+p-glycoprotein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_0990 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+p-glycoprotein-like protein (Abc transporter-like protein) (Multidrug resistance protein-like protein) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_2670 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Palmitoyltransferase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_1430 PE=3 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Paraflagellar rod protein 2C OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_1430 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Peptidyl-prolyl cis-trans isomerase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_0910 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Peptidylprolyl isomerase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_19_1530 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Phosphate transporter OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_10_1300 PE=3 SV=1 ;0 ;1 ;1 ;0 ;0 ;0 ;0 ;0
+Phosphatidylinositol-4-phosphate 5-kinase-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_0370 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Phosphodiesterase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_2440 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Phosphodiesterase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_15_1480 PE=3 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Phosphodiesterase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_18_1090 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Phosphoglycerate kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_0100 PE=3 SV=1 ;1 ;1 ;0 ;1 ;0 ;1 ;0 ;1
+Phospholipid-transporting ATPase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1530 PE=3 SV=1 ;0 ;0 ;1 ;1 ;0 ;0 ;0 ;0
+Phosphotransferase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_21_0240 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Polyadenylate-binding protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_4130 PE=3 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Proteasome endopeptidase complex OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_0190 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;1 ;1
+Proteasome regulatory ATPase subunit OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_4360 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Proteasome regulatory ATPase subunittcc1l8.3_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_12_0210 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;1 ;1
+Proteasome regulatory non-ATP-ase subunit 11_putative (19s proteasome regulatory subunit_metallo-peptidase_ clan mp_ family m67) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_0650 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Proteasome regulatory non-ATP-ase subunit 2_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_28_1730 PE=3 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;0 ;1
+Proteasome regulatory non-ATP-ase subunit 5_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_21_0760 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Proteasome regulatory non-ATPase subunit 6_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_02_0370 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Proteasome regulatory non-ATPase subunit_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_0120 PE=4 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;0 ;1
+Proteasome subunit alpha type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_11_0240 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;1 ;0 ;0
+Proteasome subunit alpha type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_14_0310 PE=3 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Proteasome subunit alpha type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_21_1700 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;0 ;1
+Proteasome subunit alpha type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_21_1830 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Proteasome subunit alpha type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_4850 PE=3 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Proteasome subunit alpha type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_1600 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Proteasome subunit beta OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_4340 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Proteasome subunit beta type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_06_0140 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Proteasome subunit beta type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_12_0030 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;1 ;1 ;1
+Proteasome subunit beta type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_3840 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Proteasome subunit beta type OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_1650 PE=3 SV=1 ;1 ;1 ;0 ;0 ;0 ;0 ;0 ;0
+Protein disulfide-isomerase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_6940 PE=3 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Protein tyrosine phosphatase-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_0230 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Putative 2-hydroxy-3-oxopropionate reductase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_0180 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative 26S protease regulatory subunit OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_03_0540 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative 3'-nucleotidase/nuclease OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_12_0400 PE=4 SV=1 ;0 ;1 ;1 ;1 ;1 ;1 ;0 ;1
+Putative 40S ribosomal protein L14 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_22_1520 PE=4 SV=1 ;0 ;0 ;0 ;1 ;1 ;1 ;0 ;0
+Putative 40S ribosomal protein S11 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_1650 PE=3 SV=1 ;0 ;1 ;1 ;1 ;0 ;1 ;0 ;0
+Putative 40S ribosomal protein S15A OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_1800 PE=3 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;1 ;1
+Putative 40S ribosomal protein S3 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_15_0950 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative 40S ribosomal protein S4 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1220 PE=3 SV=1 ;0 ;0 ;1 ;1 ;1 ;1 ;1 ;0
+Putative 5-methyltetrahydropteroyltriglutamate--homocyst ei nemethyltransferase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_0010 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative 60S ribosomal protein L10 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0750 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;1 ;0 ;0
+Putative 60S ribosomal protein L13 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_2460 PE=3 SV=1 ;0 ;0 ;1 ;1 ;1 ;0 ;1 ;0
+Putative 60S ribosomal protein L13a OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_15_0200 PE=3 SV=1 ;0 ;0 ;0 ;1 ;1 ;1 ;1 ;0
+Putative 60S ribosomal protein L19 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_06_0410 PE=3 SV=1 ;0 ;0 ;0 ;1 ;1 ;0 ;0 ;0
+Putative 60S ribosomal protein L2 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_3900 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative 60S ribosomal protein L21 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_0460 PE=4 SV=1 ;0 ;1 ;1 ;1 ;1 ;1 ;1 ;0
+Putative 60S ribosomal protein L7 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_0180 PE=4 SV=1 ;0 ;0 ;1 ;1 ;1 ;1 ;1 ;0
+Putative ABC transporter OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_11_1270 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative ABC transporter OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_11_1290 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Putative ABC transporter OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_0970 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative adenosine kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_0880 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative adenylate kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_21_1250 PE=3 SV=1 ;1 ;0 ;0 ;1 ;1 ;1 ;0 ;1
+Putative adenylate kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_0110 PE=3 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;1 ;1
+Putative ADP ribosylation factor 3 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_0880 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative ADP-ribosylation factor OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_2790 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative ADP-ribosylation factor-like (Putative small gtpase) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_1380 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;1 ;1
+Putative ADP_ATP carrier protein 1_ mitochondrial OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_19_0200 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative ama1 protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_1420 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;0 ;1
+Putative amino acid permease OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_0670 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative amino acid transporter aATP11 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_0350 PE=4 SV=1 ;0 ;0 ;1 ;0 ;0 ;0 ;0 ;0
+Putative aminoacylase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_1570 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative aminopeptidase (Metallo-peptidase_ clan mf_ family m17) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_11_0630 PE=4 SV=1 ;1 ;1 ;1 ;0 ;0 ;1 ;0 ;1
+Putative aminopeptidase P OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_2350 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;1 ;1
+Putative arginyl-tRNA synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_1310 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative asparagine synthetase a (Putative aspartate--ammonia ligase) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_0830 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Putative aspartyl-tRNA synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_0460 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative ATP-binding cassette protein subfamily G_ member 2 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=ABCG2 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative ATP-dependent Clp protease subunit_ heat shock protein 100 (HSP100) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_1270 PE=3 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Putative ATP-dependent DEAD-box RNA helicase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_0370 PE=3 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative ATP-dependent RNA helicase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_0400 PE=3 SV=1 ;1 ;0 ;0 ;0 ;0 ;1 ;1 ;1
+Putative ATPase alpha subunit OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0500 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative c2 domain protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_0790 PE=4 SV=1 ;1 ;1 ;1 ;1 ;0 ;0 ;1 ;1
+Putative calcium channel protein (Putative ion transporter) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_0480 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative calcium motive P-type ATPase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_2080 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative calpain-like cysteine peptidase (Putative cysteine peptidase_ clan ca_ family c2) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_14_0850 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Putative calpain-like cysteine peptidase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0450 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Putative calpain-like cysteine peptidase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_1190 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Putative calpain-like cysteine peptidase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_1280 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative calpain-like cysteine peptidase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_1310 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative calpain-like cysteine peptidase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_0390 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;0 ;1
+Putative cAMP-specific phosphodiesterase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0030 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative carboxypeptidase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_2540 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative casein kinase I OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_1580 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Putative casein kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_1010 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Putative cystathione gamma lyase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_3230 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative cysteine synthase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_3590 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative dual specificity protein phosphatase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_2190 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative dynein heavy chain OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1650 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative dynein heavy chain OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_0980 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative dynein heavy chain OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_1750 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative ecotin OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_15_0300 PE=4 SV=1 ;1 ;1 ;0 ;1 ;0 ;0 ;1 ;1
+Putative ecotin OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_15_0520 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Putative ef-hand protein 5 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_09_0900 PE=4 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;0 ;1
+Putative endoribonuclease L-PSP (Pb5) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_0200 PE=4 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;0 ;1
+Putative fatty acyl CoA syntetase 1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_01_0470 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;0 ;1
+Putative Gim5A protein (Glycosomal membrane protein) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_3700 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative glucosamine-fructose-6-phosphate aminotransferase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_06_0950 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative glucose-regulated protein 78 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_28_1200 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;1 ;0
+Putative glutamine synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_06_0370 PE=3 SV=1 ;0 ;0 ;1 ;0 ;0 ;1 ;0 ;1
+Putative glycogen synthase kinase 3 beta OS=Leishmania mexicana OX=5665 GN=GSK3b PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative glycyl tRNA synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_3840 PE=4 SV=1 ;1 ;1 ;0 ;1 ;0 ;1 ;0 ;1
+Putative GTP-binding protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_2200 PE=3 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;1 ;0
+Putative heat shock protein DNAJ OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_2400 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Putative heat shock protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_18_1370 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative histidine secretory acid phosphatase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_6480 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative isoleucyl-tRNA synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_5620 PE=3 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;0 ;1
+Putative kinesin K39 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_14_1100 PE=3 SV=1 ;1 ;1 ;1 ;1 ;0 ;0 ;1 ;1
+Putative long chain fatty Acyl CoA synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_03_0230 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Putative long-chain-fatty-acid-CoA ligase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_01_0490 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Putative long-chain-fatty-acid-CoA ligase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_01_0520 PE=4 SV=1 ;0 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative major vault protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0060 PE=4 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;0 ;0
+Putative membrane-bound acid phosphatase 2 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_2590 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative mitotubule-associated protein Gb4 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_1950 PE=4 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;0 ;0
+Putative myosin heavy chain OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_3870 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Putative NADP-dependent alcohol dehydrogenase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_0360 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative nucleoside transporter 1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_15_1230 PE=4 SV=1 ;1 ;1 ;1 ;0 ;1 ;1 ;1 ;0
+Putative nucleoside transporter 1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_1940 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative orotidine-5-phosphate decarboxylase/orotate phosphoribosyltransferase (Putative ompdcase-oprtase) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_0550 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative oxidoreductase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_4170 PE=4 SV=1 ;1 ;1 ;1 ;1 ;0 ;0 ;0 ;1
+Putative paraflagellar rod protein 1D OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_1760 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative paraflagellar rod protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0920 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;0 ;1
+Putative peptidase M20/M25/M40 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_1610 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative peptidyl dipeptidase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_02_0740 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Putative peptidyl-prolyl cis-trans isomerase (Cyclophilin-40) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_4770 PE=4 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;0 ;1
+Putative phosphatase 2C OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_0380 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative poly-zinc finger protein 2 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_1635 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Putative polyubiquitin OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_09_0891 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative proteasome activator protein pa26 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_0750 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Putative proteasome regulatory ATPase subunit 1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_22_0570 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative proteasome regulatory ATPase subunit 2 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1090 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative proteasome regulatory ATPase subunit 5 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_22_0620 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;0 ;1
+Putative Qc-SNARE protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_0030 PE=4 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;1 ;1
+Putative rab1 small GTP-binding protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_10_1160 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;1 ;0
+Putative ras-like small GTPases OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_0860 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Putative ribosomal protein L1a OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_1090 PE=4 SV=1 ;0 ;0 ;0 ;1 ;1 ;1 ;1 ;0
+Putative sarcoplasmic reticulum glycoprotein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_19_0280 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Putative serine/threonine protein kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_0810 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative serine/threonine-protein kinase (Putative protein kinase) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_2340 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative serine/threonine-protein kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_2570 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative serine/threonine-protein kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_21_1565 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Putative serine/threonine-protein kinase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_2960 PE=3 SV=1 ;1 ;1 ;0 ;1 ;0 ;0 ;1 ;1
+Putative seryl-tRNA synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_11_0100 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative short chain dehydrogenase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_1220 PE=3 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Putative small GTP-binding protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0030 PE=3 SV=1 ;1 ;0 ;1 ;1 ;0 ;1 ;0 ;1
+Putative small GTP-binding protein Rab1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_0760 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative small GTP-binding protein Rab11 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_10_0910 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative small GTP-binding protein Rab28 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_1710 PE=4 SV=1 ;0 ;0 ;0 ;1 ;1 ;0 ;1 ;1
+Putative surface antigen (Fragment) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_12_0860 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative surface protein amastin OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_0850 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;0 ;1
+Putative thimet oligopeptidase (Metallo-peptidase_ clan ma(E)_ family m3) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_1570 PE=3 SV=1 ;1 ;1 ;0 ;1 ;0 ;0 ;0 ;1
+Putative transmembrane amino acid transporter OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_07_1160 PE=4 SV=1 ;0 ;1 ;1 ;0 ;1 ;0 ;0 ;0
+Putative trypanothione synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_1870 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;0 ;1
+Putative tyrosine aminotransferase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_2360 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative tyrosyl-tRNA synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_14_1370 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative ubiquitin hydrolase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_1200 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative ubiquitin-activating enzyme e1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_3060 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Putative vacuolar-type proton translocating pyrophosphatase 1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_1220 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Putative valyl-tRNA synthetase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_3130 PE=3 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Rab GDP dissociation inhibitor OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_2160 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;1 ;0 ;1
+Receptor-type adenylate cyclase a-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_3180 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;1 ;1 ;1
+Reticulon-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_2580 PE=4 SV=1 ;1 ;1 ;0 ;1 ;0 ;1 ;0 ;1
+Ribonucleoprotein p18_ mitochondrial_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_15_0275 PE=4 SV=1 ;1 ;1 ;1 ;0 ;0 ;1 ;1 ;1
+Ribosomal protein L15 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_3650 PE=3 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+RNA-binding protein_ putative_ UPB1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_0490 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+S-adenosylmethionine synthase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_3500 PE=3 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;1 ;1
+S-methyl-5'-thioadenosine phosphorylase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0830 PE=3 SV=1 ;0 ;0 ;1 ;0 ;0 ;0 ;0 ;0
+Serine hydroxymethyltransferase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_14_1320 PE=3 SV=1 ;1 ;1 ;1 ;1 ;0 ;0 ;0 ;1
+Serine/threonine-protein phosphatase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0100 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Serine/threonine-protein phosphatase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_12_0660 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Serine/threonine-protein phosphatase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_0780 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Stomatin-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_1040 PE=4 SV=1 ;1 ;0 ;1 ;0 ;0 ;0 ;1 ;0
+Stress-inducible protein STI1 homolog OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_0070 PE=4 SV=1 ;1 ;1 ;0 ;1 ;0 ;0 ;0 ;1
+Succinyl-diaminopimelate desuccinylase-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_2020 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Sucrose-phosphate synthase-like protein OS=Leishmania mexicana OX=5665 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Superoxide dismutase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_1820 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Surface antigen-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0200 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Surface antigen-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0210 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Surface antigen-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0900 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Surface antigen-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_1215 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+T-complex protein 1 subunit gamma OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_1220 PE=3 SV=1 ;1 ;0 ;0 ;1 ;0 ;1 ;1 ;1
+Transaldolase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_0760 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Transitional endoplasmic reticulum ATPase_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_1370 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Transketolase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_24_2060 PE=3 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Transmembrane 9 superfamily member OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_3660 PE=3 SV=1 ;1 ;1 ;0 ;0 ;0 ;0 ;0 ;1
+Trypanothione reductase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_05_0350 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;0 ;1 ;1
+Tryparedoxin OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_1160 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Tubulin alpha chain OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_0280 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Ubiquitin carboxyl-terminal hydrolase OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_24_0420 PE=3 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Ubiquitin-conjugating enzyme-like protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1580 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Ubiquitinyl hydrolase 1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_2300 PE=3 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein (Calcium/calmodulin-dependent protein kinase_putative) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_24_1730 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein LmxM_30_0440_1 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LmxM_30_0440_1 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_01_0010 PE=4 SV=1 ;1 ;0 ;0 ;1 ;1 ;1 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_01_0770 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_02_0550 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_02_0570 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_03_0690 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_03_0960 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;1 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0130 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0220 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0230 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_04_0320 PE=3 SV=1 ;0 ;0 ;1 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_06_0030 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_06_0920 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_06_0980 PE=4 SV=1 ;0 ;0 ;0 ;0 ;1 ;1 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_0930 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_1100 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;1 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_0110 PE=3 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_0940 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_1240 PE=4 SV=1 ;1 ;1 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_2050 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_08_29_2100 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_09_0340 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_10_0219 PE=4 SV=1 ;1 ;1 ;1 ;1 ;0 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_11_1030 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1080 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1310 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1320 PE=4 SV=1 ;1 ;1 ;0 ;1 ;0 ;1 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_13_1470 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_14_0560 PE=4 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_0470 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_0500 PE=4 SV=1 ;1 ;1 ;1 ;0 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_16_0900 PE=4 SV=1 ;0 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_17_0170 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_17_0860 PE=4 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_17_1030 PE=4 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_17_1280 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_18_0700 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_19_0190 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_19_0570 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_19_1160 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_19_1290 PE=4 SV=1 ;1 ;1 ;1 ;1 ;0 ;0 ;1 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_0360 PE=4 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_1040 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_1220 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_1230 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_20_1270 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_21_1555 PE=4 SV=1 ;1 ;0 ;1 ;0 ;0 ;0 ;1 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_22_0010 PE=4 SV=1 ;1 ;1 ;0 ;0 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_22_0630 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_0640 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_0840 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_0980 PE=4 SV=1 ;1 ;1 ;1 ;0 ;1 ;0 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_0990 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_1000 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_1020 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_1035 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_23_1490 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_1310 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_1620 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;1 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_1750 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_2020 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_25_2410 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_0380 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_1440 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_1500 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_1730 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_1960 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_26_2680 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_1440 PE=3 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_1640 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_27_1730 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_28_0560 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_0660 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_0930 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_29_1220 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_0680 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;0 ;1 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_0720 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_1240 PE=4 SV=1 ;1 ;0 ;0 ;1 ;1 ;0 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_1840 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_2115 PE=4 SV=1 ;0 ;0 ;0 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_2190 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_2590 PE=4 SV=1 ;0 ;0 ;0 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_30_2810 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_0020 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_1260 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_1810 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_2160 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_3210 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_31_3930 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_0210 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_1035 PE=4 SV=1 ;0 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_2440 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_2910 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_2920 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_2930 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_2940 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_2960 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_2980 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_32_3010 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_0190 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_0460 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_1470 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_1520 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_2020 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_2270 PE=3 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_33_2580 PE=4 SV=1 ;0 ;1 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_1050 PE=3 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_1620 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_2320 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_2380 PE=4 SV=1 ;0 ;1 ;0 ;1 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_34_2790 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_0310 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_0750 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_1400 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_1520 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_2440 PE=4 SV=1 ;0 ;0 ;0 ;0 ;0 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_2840 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_4140 PE=4 SV=1 ;1 ;1 ;0 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_4370 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_4460 PE=4 SV=1 ;0 ;1 ;1 ;0 ;0 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_5140 PE=4 SV=1 ;0 ;0 ;0 ;1 ;1 ;0 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_5150 PE=3 SV=1 ;1 ;1 ;0 ;1 ;0 ;1 ;0 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_5910 PE=4 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+Uncharacterized protein OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM32.2905:exon:5 PE=4 SV=1 ;1 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+Universal minicircle sequence binding protein_putative OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LMXM_36_1610 PE=4 SV=1 ;0 ;0 ;1 ;0 ;1 ;0 ;0 ;1
+WGS CADB00000000 data_ contig 24 (Fragment) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LmxM_34_0540_1 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+WGS CADB00000000 data_ contig 40 (Fragment) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LmxM_16_1010a_1 PE=4 SV=1 ;1 ;0 ;0 ;0 ;0 ;0 ;0 ;0
+WGS CADB00000000 data_ contig 52 (Fragment) OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LmxM_16_1460c_1 PE=3 SV=1 ;1 ;1 ;1 ;1 ;1 ;1 ;1 ;1
+WGS CADB00000000 data_ contig 73 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LmxM_15_0440a_1 PE=4 SV=1 ;0 ;0 ;0 ;1 ;0 ;0 ;0 ;0
+WGS CADB00000000 data_ contig 99 OS=Leishmania mexicana (strain MHOM/GT/2001/U1103) OX=929439 GN=LmxM_30_1800a_1 PE=4 SV=1 ;0 ;0 ;1 ;0 ;0 ;1 ;0 ;0
